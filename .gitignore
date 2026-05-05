@@ -1,0 +1,32 @@
+# Virtual Environment
+.venv/
+
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables / Secrets
+.env
+.env.local
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Static Analysis (Ruff/Mypy)
+.ruff_cache/
+.mypy_cache/
+
+# IDE settings 
+.vscode/
+.idea/
+.DS_Store
+.python-version
