@@ -3,8 +3,7 @@
 A learning and research playground for **marimo**, focused on interactive widgets, dashboards, toy physics, emergent systems, and AI research notebooks.
 
 ## Why this repo exists
-
-I am preparing for a Master's in AI in Fall 2026 in the Netherlands.  
+ 
 This repository is my public learning lab for building beautiful, reactive, reproducible notebooks with marimo.
 
 My long-term research interests include:
@@ -24,8 +23,8 @@ My long-term research interests include:
 
 The goal is to build notebooks that are both:
 
-1. **educational** — clear explanations and comments
-2. **portfolio-quality** — interactive dashboards that show my technical taste
+1. **educational** — notebooks 
+2. **portfolio-quality** — interactive dashboards 
 
 ## Project structure
 
